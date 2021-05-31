@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshfast
 - 👀 I’m interested in Android, Kotlin, Java and Spring.
-- 🌱 I’m currently learning Spring Boot, Angular and Typescript.
+- 🌱 I’m learning Spring, Cloud, Distributed Systems(Microservices)
 - 💞️ I’m looking to collaborate on Android Applications Development.
 
 <!---
