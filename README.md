@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @harshfast
-- 👀 I’m interested in Android, Kotlin, Java and Spring.
-- 🌱 I’m learning Spring, Cloud, Distributed Systems(Microservices)
-- 💞️ I’m looking to collaborate on Android Applications Development.
+# Hi, I am Harsh Tak
+
+### Personal Info
+```kotlin
+class PersonalInfo{
+  val primarySkills: String = "Android Development"
+  val totalExperienceInYears: Int = 10
+  val emailAddress:String = "harshfast@gmail.com"
+}
+```
+
 
 <!---
 harshfast/harshfast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
