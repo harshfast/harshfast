@@ -6,6 +6,7 @@ class PersonalInfo{
   val primarySkills: String = "Android Development"
   val totalExperienceInYears: Int = 10
   val emailAddress:String = "harshfast@gmail.com"
+  val companiesWorkedFor = mutableListOf("Mastercard", "Mindtree Ltd.", "Mobisy Technologies")
 }
 ```
 
